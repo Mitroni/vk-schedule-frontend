@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vk-schedule-frontend/static/js/main.6b7e3eac.js",
+    "main.js": "/vk-schedule-frontend/static/js/main.bd4a4c63.js",
     "index.html": "/vk-schedule-frontend/index.html",
-    "main.6b7e3eac.js.map": "/vk-schedule-frontend/static/js/main.6b7e3eac.js.map"
+    "main.bd4a4c63.js.map": "/vk-schedule-frontend/static/js/main.bd4a4c63.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b7e3eac.js"
+    "static/js/main.bd4a4c63.js"
   ]
 }
